@@ -16,5 +16,3 @@
 <a href="https://linkedin.com/in/successful-fella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="successful-fella" height="30" width="30" /></a>
 <a href="https://instagram.com/successful_fella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="successful_fella" height="30" width="30" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=successful-fella&layout=compact&hide=html" alt="successful-fella" /></p>
