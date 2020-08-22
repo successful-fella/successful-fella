@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **Me a weeb.**
 
-[weeb](https://i.imgur.com/ZHK3GNo.gif)
+![](https://i.imgur.com/ZHK3GNo.gif)
 
 <p align="center">
 <a href="https://telegram.me/successful_fella" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="successful-fella" height="30" width="30" /></a>
