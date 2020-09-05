@@ -11,7 +11,7 @@
 
 - ⚡ <strike>Fun</strike> Undeniable fact: **Rem best waifu uwu**
 
-![](https://i.gifer.com/4AzA.gif)
+![](https://s8.gifyu.com/images/4AzA.gif)
 
 - 📫 Reach me at **preetjuneja@zingalbox.com** or -
 
