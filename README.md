@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, I'm KP</h1>
-<h3 align="center">Busiotech Strategist</h3>
 
 - 💪 I’m currently working on **AmigosHUB**
 
