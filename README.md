@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm KP</h1>
 
-- 💪 I’m currently working on **AmigosHUB**
+- 💪 I’m currently **freelancing** and open to work on anything practical & interesting.
 
-- 💻 I’m currently learning **Marketing, Core PHP, Node, Frontend frameworks, etc.**
+- 💻 I’m learning/digging deep into **Marketing Fundamentals, Core PHP, React Native & Next.js**. (Hope Next Native is a thing in future) 
 
 - 😁 I've fun working on -
 
