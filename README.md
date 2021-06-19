@@ -14,6 +14,6 @@
 - 📫 Reach me at **successful_fella@zingalbox.com** or -
 
 <p align="center">
-<a href="https://telegram.me/successful_fella" target="_blank"><img align="center" style="filter: invert(42%)" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="successful-fella" height="30" width="30" /></a>
-<a href="https://twitter.com/kawalpreetj" target="_blank"><img align="center" style="filter: invert(42%)" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kawalpreetj" height="30" width="30" /></a>
+<a href="https://telegram.me/successful_fella" target="_blank"><img align="center" src="https://github.com/successful-fella/successful-fella/raw/master/telegram.png" alt="successful-fella" height="30" width="30" /></a>
+<a href="https://twitter.com/kawalpreetj" target="_blank"><img align="center" src="https://github.com/successful-fella/successful-fella/raw/master/twitter.png" alt="kawalpreetj" height="30" width="30" /></a>
 </p>
