@@ -2,7 +2,7 @@
 
 - 💪 I’m currently **freelancing** and open to work on anything practical & interesting.
 
-- 💻 I’m learning/digging deep into **Marketing Fundamentals, Core PHP, React Native & Next.js**. (Hope Next Native is a thing in future) 
+- 💻 I’m learning/digging deep into **Core PHP**.
 
 - 😁 I've fun working on -
 
