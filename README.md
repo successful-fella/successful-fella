@@ -13,6 +13,6 @@
 - 📫 Reach me at **successful_fella@zingalbox.com** or -
 
 <p align="center">
-<a href="https://telegram.me/successful_fella" target="_blank"><img align="center" src="https://github.com/successful-fella/successful-fella/raw/master/telegram.png" alt="successful-fella" height="30" width="30" /></a>
-<a href="https://twitter.com/kawalpreetj" target="_blank"><img align="center" src="https://github.com/successful-fella/successful-fella/raw/master/twitter.png" alt="kawalpreetj" height="30" width="30" /></a>
+<a href="https://telegram.me/fail_fixer" target="_blank"><img align="center" src="https://github.com/successful-fella/successful-fella/raw/master/telegram.png" alt="successful-fella" height="30" width="30" /></a>
+<a href="https://twitter.com/fail_fixer" target="_blank"><img align="center" src="https://github.com/successful-fella/successful-fella/raw/master/twitter.png" alt="kawalpreetj" height="30" width="30" /></a>
 </p>
