@@ -2,7 +2,7 @@
 
 - 💪 I’m currently **freelancing** and open to work on anything practical & interesting.
 
-- 💻 I’m learning/digging deep into **Core PHP**.
+- 💻 I’m currently learning/digging deep into **Core PHP**.
 
 - 😁 I've fun working on -
 
