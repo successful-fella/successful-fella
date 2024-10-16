@@ -12,5 +12,5 @@
 
 <p align="center">
 <a href="https://telegram.me/fail_fixer" target="_blank"><img align="center" src="https://github.com/successful-fella/successful-fella/raw/master/telegram.png" alt="fail_fixer" height="30" width="30" /></a>
-<a href="https://twitter.com/fail_fixer" target="_blank"><img align="center" src="https://github.com/successful-fella/successful-fella/raw/master/twitter.png" alt="fail_fixer" height="30" width="30" /></a>
+<a href="https://x.com/fail_fixer" target="_blank"><img align="center" src="https://github.com/successful-fella/successful-fella/raw/master/twitter.png" alt="fail_fixer" height="30" width="30" /></a>
 </p>
