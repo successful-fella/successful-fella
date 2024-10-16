@@ -7,7 +7,9 @@
 - 😁 I've fun working on -
 
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,css&perline=10)](https://zingalbox.com) <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
-[![My Skills](https://skillicons.dev/icons?i=django,docker,electron,express,flask,gcp,js,git,html,laravel,linux,mysql,materialui,mongodb,php,nodejs,postman,python,react,redis,sass,selenium,xd&perline=10)](https://zingalbox.com)
+[![My Skills](https://skillicons.dev/icons?i=django,docker,electron,express,flask,gcp,js,git,html,laravel&perline=10)](https://zingalbox.com)
+[![My Skills](https://skillicons.dev/icons?i=linux,mysql,materialui,mongodb,php,nodejs,postman,python,react,redis&perline=10)](https://zingalbox.com)
+[![My Skills](https://skillicons.dev/icons?i=sass,selenium,xd&perline=10)](https://zingalbox.com)
 
 - 📫 Reach me at **kp@flowres.io** or -
 
